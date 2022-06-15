@@ -1,0 +1,40 @@
+{
+    "sessao": [
+        {
+            "id": 1, 
+            "nome": "Fernando Manoel Pereira",
+            "email": "teste@teste.com.br"
+        }
+    ],
+    "produto": [
+        {
+            "id": 1, 
+            "nome": "Fluido freio",
+            "preco": "55",
+            "medida": "litro"
+        },
+        {
+            "id": 2, 
+            "nome": "Oleo 2 tempo",
+            "preco": "41",
+            "medida": "litro"
+        }
+    ],
+    "pedido": [
+        {
+            "id": 1, 
+            "produto": 1,
+            "usuario": 1
+        }
+    ],
+    "pessoa": [
+        {
+            "id": 1, 
+            "nome": "Fernando Manoel Pereira",
+            "email": "teste@teste.com.br",
+            "idade": 41,
+            "estadoCivil": "Casado",
+            "cidade": "Birigui"
+        }
+    ]
+}
